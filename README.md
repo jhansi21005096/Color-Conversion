@@ -259,6 +259,8 @@ cv2.destroyAllWindows()
 
 #HSV to BGR:
 
+![output](https://github.com/jhansi21005096/Color-Conversion/blob/main/dipout-6.png)
+
 ### iii) RGB and BGR to YCrCb
 #BGR TO HSV:
 
