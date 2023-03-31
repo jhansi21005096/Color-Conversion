@@ -272,6 +272,8 @@ cv2.destroyAllWindows()
 
 #BGR TO YCrCb:
 
+![output](https://github.com/jhansi21005096/Color-Conversion/blob/main/dipout-9.png)
+
 ### iv) Split and merge RGB Image
 
 
