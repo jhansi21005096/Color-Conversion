@@ -276,6 +276,7 @@ cv2.destroyAllWindows()
 
 ### iv) Split and merge RGB Image
 
+![output](https://github.com/jhansi21005096/Color-Conversion/blob/main/dipout-10.png)
 
 ### v) Split and merge HSV Image
 
